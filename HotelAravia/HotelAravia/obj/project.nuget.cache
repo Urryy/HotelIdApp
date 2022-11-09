@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A7amS6V7xpPa76BzZVNmlfGFNCyQxtGz5HfbsiVzvmkQMC33yGYtON6NtSwPTD4xgurx4dxJPE3yvsoilcZNaA==",
+  "dgSpecHash": "KlI5G1z5Bg6+uqrT9YKbg4YLKNVqu4EtW4tIdTjjdLlfVKXRNPyWT8F6T/gCT8GqI0l9gmQktACz2mNjH5SpYA==",
   "success": true,
-  "projectFilePath": "E:\\HotelInd\\HotelAravia\\HotelAravia\\HotelAravia.csproj",
+  "projectFilePath": "E:\\HotelInd\\HotelIdApp\\HotelAravia\\HotelAravia\\HotelAravia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],

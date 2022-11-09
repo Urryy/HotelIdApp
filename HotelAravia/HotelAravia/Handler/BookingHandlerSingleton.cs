@@ -134,16 +134,5 @@ namespace HotelAravia.Handler
                 }
             }
         }
-        static void PrintMainMenu()
-        {
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine("Welcome to the hotel 'California'!");
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine("Today's date:" + BookingHandlerSingleton.Instance.CurrentDate.ToString());
-            Console.WriteLine("1-Login as a Guest");
-            Console.WriteLine("2-Login as an Admin");
-            Console.WriteLine("3-Sign up");
-            Console.WriteLine("4-Exit");
-        }
     }
 }

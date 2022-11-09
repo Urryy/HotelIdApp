@@ -12,3 +12,17 @@ E:\HotelInd\HotelAravia\HotelAravia\obj\Debug\netcoreapp3.1\HotelAravia.csproj.C
 E:\HotelInd\HotelAravia\HotelAravia\obj\Debug\netcoreapp3.1\HotelAravia.dll
 E:\HotelInd\HotelAravia\HotelAravia\obj\Debug\netcoreapp3.1\HotelAravia.pdb
 E:\HotelInd\HotelAravia\HotelAravia\obj\Debug\netcoreapp3.1\HotelAravia.genruntimeconfig.cache
+E:\HotelInd\HotelIdApp\HotelAravia\HotelAravia\bin\Debug\netcoreapp3.1\HotelAravia.exe
+E:\HotelInd\HotelIdApp\HotelAravia\HotelAravia\bin\Debug\netcoreapp3.1\HotelAravia.deps.json
+E:\HotelInd\HotelIdApp\HotelAravia\HotelAravia\bin\Debug\netcoreapp3.1\HotelAravia.runtimeconfig.json
+E:\HotelInd\HotelIdApp\HotelAravia\HotelAravia\bin\Debug\netcoreapp3.1\HotelAravia.runtimeconfig.dev.json
+E:\HotelInd\HotelIdApp\HotelAravia\HotelAravia\bin\Debug\netcoreapp3.1\HotelAravia.dll
+E:\HotelInd\HotelIdApp\HotelAravia\HotelAravia\bin\Debug\netcoreapp3.1\HotelAravia.pdb
+E:\HotelInd\HotelIdApp\HotelAravia\HotelAravia\obj\Debug\netcoreapp3.1\HotelAravia.csproj.AssemblyReference.cache
+E:\HotelInd\HotelIdApp\HotelAravia\HotelAravia\obj\Debug\netcoreapp3.1\HotelAravia.GeneratedMSBuildEditorConfig.editorconfig
+E:\HotelInd\HotelIdApp\HotelAravia\HotelAravia\obj\Debug\netcoreapp3.1\HotelAravia.AssemblyInfoInputs.cache
+E:\HotelInd\HotelIdApp\HotelAravia\HotelAravia\obj\Debug\netcoreapp3.1\HotelAravia.AssemblyInfo.cs
+E:\HotelInd\HotelIdApp\HotelAravia\HotelAravia\obj\Debug\netcoreapp3.1\HotelAravia.csproj.CoreCompileInputs.cache
+E:\HotelInd\HotelIdApp\HotelAravia\HotelAravia\obj\Debug\netcoreapp3.1\HotelAravia.dll
+E:\HotelInd\HotelIdApp\HotelAravia\HotelAravia\obj\Debug\netcoreapp3.1\HotelAravia.pdb
+E:\HotelInd\HotelIdApp\HotelAravia\HotelAravia\obj\Debug\netcoreapp3.1\HotelAravia.genruntimeconfig.cache

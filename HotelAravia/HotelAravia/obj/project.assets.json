@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\HotelInd\\HotelAravia\\HotelAravia\\HotelAravia.csproj",
+      "projectUniqueName": "E:\\HotelInd\\HotelIdApp\\HotelAravia\\HotelAravia\\HotelAravia.csproj",
       "projectName": "HotelAravia",
-      "projectPath": "E:\\HotelInd\\HotelAravia\\HotelAravia\\HotelAravia.csproj",
+      "projectPath": "E:\\HotelInd\\HotelIdApp\\HotelAravia\\HotelAravia\\HotelAravia.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\HotelInd\\HotelAravia\\HotelAravia\\obj\\",
+      "outputPath": "E:\\HotelInd\\HotelIdApp\\HotelAravia\\HotelAravia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
